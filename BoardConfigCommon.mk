@@ -1,5 +1,5 @@
-# Copyright (C) 2016 The CyanogenMod Project
-# Copyright (C) 2017,2021 The LineageOS Project
+#
+# Copyright (C) 2022 ArrowOS
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -12,6 +12,7 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
+#
 
 # inherit from common msm8226
 include device/samsung/msm8226-common/BoardConfigCommon.mk

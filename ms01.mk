@@ -1,6 +1,4 @@
-#
-# Copyright (C) 2014-2016 The CyanogenMod Project
-# Copyright (C) 2017-2018,2021 The LineageOS Project
+# Copyright (C) 2022 ArrowOS
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -14,10 +12,10 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
+#
 
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
-DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay-lineage
 
 # Boot animation
 TARGET_SCREEN_HEIGHT := 1280
