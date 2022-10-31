@@ -224,8 +224,8 @@ lib/libprotobuf-cpp-full.so:vendor/lib/libprotobuf-cpp-full-v23.so|b16f9545bd719
 vendor/lib/libril-qcril-hook-oem.so|e7157ae0f219a9060f7a559565122a3db763f2b2
 
 # Radio - Grand 2
-lib/libsec-ril.so:vendor/lib/libsec-ril.so|584d767135810394577caca865660638f348caa1
-lib/libsec-ril-dsds.so:vendor/lib/libsec-ril-dsds.so|a7d7c966d9545f5e14cd0f5140a31d651c6f1b26
+lib/libsec-ril.so:vendor/lib/libsec-ril.so|b721e941f2adf92864641ca64d5ea2a139941252
+lib/libsec-ril-dsds.so:vendor/lib/libsec-ril-dsds.so|247e63eac166efd09ab31f0bdde371f903227679
 
 # Sensors
 lib/hw/sensors.msm8226.so:vendor/lib/hw/sensors.vendor.msm8226.so
