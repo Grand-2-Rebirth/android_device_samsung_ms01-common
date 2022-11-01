@@ -223,10 +223,6 @@ bin/rmt_storage:vendor/bin/rmt_storage|37e230681465c787ff48ef431f94fcf31b3afbf3
 lib/libprotobuf-cpp-full.so:vendor/lib/libprotobuf-cpp-full-v23.so|b16f9545bd719238d2eb9badcbd4391013b7af5a
 vendor/lib/libril-qcril-hook-oem.so|e7157ae0f219a9060f7a559565122a3db763f2b2
 
-# Radio - Grand 2
-lib/libsec-ril.so:vendor/lib/libsec-ril.so|584d767135810394577caca865660638f348caa1
-lib/libsec-ril-dsds.so:vendor/lib/libsec-ril-dsds.so|a7d7c966d9545f5e14cd0f5140a31d651c6f1b26
-
 # Sensors
 lib/hw/sensors.msm8226.so:vendor/lib/hw/sensors.vendor.msm8226.so
 lib/libyasalgo.so:vendor/lib/libyasalgo.so
