@@ -63,6 +63,7 @@ BOARD_CUSTOM_BOOTIMG := true
 BOARD_CUSTOM_BOOTIMG_MK := hardware/samsung/mkbootimg.mk
 BOARD_RAMDISK_USE_XZ := true
 TARGET_KERNEL_SOURCE := kernel/samsung/msm8226
+TARGET_KERNEL_CLANG_COMPILE := false
 
 # Legacy BLOB Support
 TARGET_LD_SHIM_LIBS += \
