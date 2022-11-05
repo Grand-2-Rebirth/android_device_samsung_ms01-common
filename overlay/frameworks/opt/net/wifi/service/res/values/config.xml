@@ -13,5 +13,5 @@
     <bool translatable="false" name="config_wifiSaeUpgradeEnabled">false</bool>
 
     <!-- Do not translate. Default access point SSID used for tethering -->
-    <string name="wifi_tether_configure_ssid_default" translatable="false">Galaxy S III Neo</string>
+    <string name="wifi_tether_configure_ssid_default" translatable="false">Galaxy Grand 2</string>
 </resources>
