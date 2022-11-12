@@ -50,6 +50,10 @@ PRODUCT_PACKAGES += \
 # FM
 PRODUCT_PACKAGES += \
     FMRadio
+	
+# Aurora Store
+PRODUCT_PACKAGES += \
+	AuroraStore
 
 # Keylayouts
 PRODUCT_COPY_FILES += \
