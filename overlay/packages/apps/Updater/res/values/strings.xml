@@ -16,9 +16,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <string name="updater_server_url" translatable="false">http://html6405.ddns.net/{device}/html6405/LOS19/{device}.json</string>
+    <string name="updater_server_url" translatable="false">http://html6405.ddns.net/{device}/html6405/LOS21/{device}.json</string>
 
-    <string name="menu_changelog_url" translatable="false">https://forum.xda-developers.com/t/rom-unofficial-12-lineageos-19-0-for-s3-neo.4399567/</string>
+    <string name="menu_changelog_url" translatable="false">https://forum.xda-developers.com/t/rom-unofficial-ms013g-13-lineageos-20-0-alpha.4637768/</string>
 
 </resources>
 
